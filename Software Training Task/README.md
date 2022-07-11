@@ -9,13 +9,13 @@ For this task the following components are required:
 1. Arduino Uno (Or equivalent microcontroller that can run Arduino code)  
    <img alt="Arduino Uno" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/Arduino%20Uno.jpg" width="500"/>
 2. TMP36 Temperature Sensor  
-<img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/TMP36.jpg" alt="Temperature Sensor">
+   <img alt="Temperature Sensor" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/TMP36.jpg" width="500"/>
 3. 4-Leg RGB LED    
-<img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/4-Pin%20RGB%20LED.jpg" alt="RGB LED">
+   <img alt="RGB LED" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/4-Pin%20RGB%20LED.jpg" width="500"/>
 4. 1 kΩ Resistor  
-<img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/1k%20Ohm%20Resistor.jpg" alt="1K Resistor" style="transform:rotate(90deg);"> <br>
+   <img alt="1K Resistor" height="100" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/1k%20Ohm%20Resistor.jpg"/> <br>
 5. 3-Pin Servo Motor  
-<img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/Servo%20Motor.jpg" alt="Servo Motor">
+   <img alt="Servo Motor" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/Servo%20Motor.jpg" width="500"/>
 
 If you do not have access to these parts, TinkerCAD offers a great circuit simulator that has the capability to simulate
 an Arduino and Arduino code.
