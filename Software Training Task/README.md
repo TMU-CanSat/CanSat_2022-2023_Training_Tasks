@@ -7,7 +7,7 @@ A training task for new applicants to the CanSat software team
 For this task the following components are required:
 
 1. Arduino Uno (Or equivalent microcontroller that can run Arduino code)  
-<img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/Arduino%20Uno.jpg" alt="Arduino Uno">
+   <img alt="Arduino Uno" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/Arduino%20Uno.jpg" width="500"/>
 2. TMP36 Temperature Sensor  
 <img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/TMP36.jpg" alt="Temperature Sensor">
 3. 4-Leg RGB LED    
