@@ -47,9 +47,7 @@ Upon completion of the task please do the following:
 2. Upload the required files into the repository. (The required files are listed below)
 3. Create a README file explaining what your code does and how it works.
 4. Include your name in the README
-5. Upload the link to your repository in the submission Google Form (LINK)
-
+5. Upload the link to your repository in the submission Google Form (https://forms.gle/gt3QRL2P7X6wXYVX6)
 
 The required files are:
 - .ino file for the Arduino
-- A picture of the circuit you built. (Either in TinkerCAD or IRL)
