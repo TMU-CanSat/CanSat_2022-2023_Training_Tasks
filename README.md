@@ -1,4 +1,4 @@
-# Software Recruitment Package 2022-2023
+# Software Recruitment Package 2022 - 2023
 
 A skills testing/training task for new applicants to the CanSat software team
 
@@ -13,7 +13,7 @@ For this task the following components are required:
 5. 3-Pin Servo Motor
 
 If you do not have access to these parts TinkerCAD offers a great circuit simulator that has the capability to simulate
-an Arduino and Arduino Code.
+an Arduino and Arduino code.
 All of the above components are available in TinkerCAD.
 
 ## Task
@@ -35,9 +35,14 @@ All of the above components are available in TinkerCAD.
 
 ## Submission
 
-Upon completion of the task please upload all required files to the Google Form in a zip file.
+Upon completion of the task please do the following:
+1. Create a GitHub repository. (Repository can have any name you want)
+2. Upload the required files into the repository. (The required files are listed below)
+3. Create a README file explaining what your code does and how it works.
+4. Include your name in the README
+5. Upload the link to your repository in the submission Google Form (LINK)
+
 
 The required files are:
-
 - .ino file for the Arduino
 - A picture of the circuit you built. (Either in TinkerCAD or IRL)
