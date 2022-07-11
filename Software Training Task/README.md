@@ -13,7 +13,7 @@ For this task the following components are required:
 3. 4-Leg RGB LED    
    <img alt="RGB LED" height="200" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/4-Pin%20RGB%20LED.jpg"/>
 4. 1 kΩ Resistor  
-   <img alt="1K Resistor" height="200" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/1k%20Ohm%20Resistor.jpg"/> <br>
+   <img alt="1K Resistor" height="200" style="transform:rotate(90deg);" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/1k%20Ohm%20Resistor.jpg"/> <br>
 5. 3-Pin Servo Motor  
    <img alt="Servo Motor" src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Software%20Training%20Task/Images/Servo%20Motor.jpg" width="500"/>
 
