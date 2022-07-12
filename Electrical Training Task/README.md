@@ -3,8 +3,17 @@
 A training task for new applicants to the CanSat electrical team
 
 ## Task
-The task is to create a schematic and PCB layout file according to the circuit at this link:   
-https://www.tinkercad.com/things/fqMcswcknUu?sharecode=g9jVDDvqnvfBpQLsSCPLpEVb1bM7ItBCqhg7wZi_XlI
+<img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Electrical%20Training%20Task/Images/555%20Timer%20Circuit.jpg" width="500">  
+
+The task is to create a schematic and PCB layout file according to the circuit above.
+
+The circuit can also be found at this link: https://www.tinkercad.com/things/fqMcswcknUu?sharecode=g9jVDDvqnvfBpQLsSCPLpEVb1bM7ItBCqhg7wZi_XlI  
+
+#### Notes:
+- IC's must have sockets
+- Components may be through hole or surface mount
+- Resistors should be mounted parallel to the PCB surface
+- Use a generic barrel jack of any dimension in place of the 9V battery
 
 ## Submission
 
