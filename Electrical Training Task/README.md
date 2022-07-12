@@ -1,6 +1,6 @@
 # Electrical Recruitment Package 2022 - 2023
 
-A training task for new applicants to the CanSat electrical team
+A training task for new applicants to the CanSat electrical team.
 
 ## Task
 <img src="https://github.com/ryerson-cansat/CanSat_2022-2023_Training_Tasks/blob/main/Electrical%20Training%20Task/Images/555%20Timer%20Circuit.jpg" width="500">  
