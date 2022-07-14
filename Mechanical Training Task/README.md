@@ -1,6 +1,6 @@
 # Mechanical Recruitment Package 2022 - 2023
 
-A training task for new applicants to the CanSat mechanical team.
+A training task for new applicants to the TMU CanSat mechanical team.
 
 # Task
 The task is to:
