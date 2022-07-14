@@ -19,7 +19,7 @@ The circuit can also be found at this link: https://www.tinkercad.com/things/fqM
 
 Upon completion of the task please do the following:
 1. Package all the required files into a single .zip file. (The required files are listed below)
-2. Upload the zip file to this Google Form: 
+2. Upload the zip file to this Google Form: https://forms.gle/sbVBLbjy6tR96Hkf7
 
 The required files are:
 - Schematic file
