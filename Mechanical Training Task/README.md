@@ -13,8 +13,10 @@ The task is to:
    - Door must allow an object with the following dimensions to be released from inside the cylinder:
      - 70mm x 70mm
 
+Note: All parts must be properly assembled and mechanically functional.
+
 # Submission
 Upon completion of the task please do the following:
 1. Gather all of your CAD parts and assemblies
 2. Add all files into a .zip file
-3. Submit the .zip file to this Google Form:
+3. Submit the .zip file to this Google Form: https://forms.gle/c65h45zJvFhqGBUr9

@@ -51,3 +51,4 @@ Upon completion of the task please do the following:
 
 The required files are:
 - .ino file for the Arduino
+- Optional: Photo of your circuit
